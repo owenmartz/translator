@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="Prob0718:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Prob0718_jar</output-path>
+    <root id="archive" name="Prob0718.jar">
+      <element id="module-output" name="Prob0718" />
+      <element id="module-source" name="Prob0718" />
+    </root>
+  </artifact>
+</component>
