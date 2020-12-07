@@ -1,0 +1,1 @@
+The project below contains the code for a Lexical analyzer, also called a tokenizer. Its main purpose is to recognize valid tokens from a stream of input. The Lexical Analyzer is one third of the translator that converts source code into object code.
